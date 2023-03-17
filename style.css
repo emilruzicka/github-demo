@@ -1,3 +1,7 @@
 body {
-    color: black;
+    background: rgb(218, 95, 95);
+}
+
+h1 {
+    text-decoration: underline;
 }
